@@ -34,7 +34,7 @@ export default function Questions() {
         }
     ];
     return (
-    <div className='bg-gray-200 px-6 pt-6'>
+    <div className='bg-gray-200 px-6 pt-6' id='Blog'>
         <div className='flex items-center justify-center'>
             <h1 className='text-5xl'>Frequently Asked Questions</h1>
         </div>
