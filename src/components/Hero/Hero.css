@@ -1,0 +1,18 @@
+
+@media (max-width : 786px){
+    .con-hero1{
+        width: 100%;
+    }
+    
+}
+
+@media (max-width : 992px){
+    .hero{
+        flex-direction: column ;
+        gap: 50px;
+    }
+    .Hero{
+        width: 100%;
+    }
+}
+
